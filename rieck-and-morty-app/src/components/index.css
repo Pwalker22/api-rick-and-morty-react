@@ -1,0 +1,28 @@
+/* Estilo para un contenedor de búsqueda */
+.search-container {
+  text-align: center; /* Centra el contenido del contenedor */
+}
+
+/* Estilo para un botón de búsqueda */
+.search-button {
+  text-align: center; /* Centra el texto del botón */
+  padding: 8px 16px; /* Relleno interno del botón */
+  font-size: 16px; /* Tamaño del texto */
+  background-color: #5c4caf; /* Color de fondo del botón, similar al utilizado en Rick y Morty */
+  color: white; /* Color del texto blanco */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Esquinas redondeadas */
+  cursor: pointer; /* Cambia el cursor a "pointer" en hover, indicando que es interactivo */
+  transition: background-color 0.3s ease; /* Transición suave del color de fondo al pasar el ratón */
+}
+
+/* Estilo para el botón de búsqueda en hover */
+.search-button:hover {
+  background-color: #45aaf2; /* Cambia el color de fondo a uno más oscuro en hover */
+}
+
+/* Estilo para una barra con color de fondo */
+.nigga-bar {
+  background-color: #AAFF00; /* Color de fondo amarillo */
+  width: 100%; /* Ancho del 100%, ocupando todo el contenedor horizontalmente */
+}
